@@ -1,11 +1,11 @@
 # Hi 👋 I'm Aditya Kumar
 
-💻 Linux System Administrator with 2+ years of hands-on experience in managing, configuring, and monitoring Linux servers (RHEL 7/8).
+💻 Linux System Administrator with 1 years of hands-on experience in managing, configuring, and monitoring Linux servers (RHEL 7/8).
 
 ---
 
 ## 👨‍💻 Professional Summary
-- 2+ years of experience as a Linux System Administrator
+- One years of experience as a Linux System Administrator
 - Strong experience with Red Hat Enterprise Linux (RHEL 7/8)
 - Skilled in server administration, troubleshooting, and monitoring
 - Experience with shell scripting, LVM, RAID, and automation
@@ -29,7 +29,7 @@
 ## 💼 Professional Experience
 
 ### Linux System Administrator  
-*Sorcflow Software Pvt. Ltd.* | Feb 2023 – Aug 2025  
+*Sorcflow Software Pvt. Ltd.* | Sep 2024 – Aug 2025  
 
 - Installed, configured, and maintained RHEL 7/8 servers  
 - Managed users, groups, permissions, ACLs, and sudo access  
